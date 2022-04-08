@@ -1,0 +1,2 @@
+week:1 interval:1 stuId:1 stuName:王大帅 roomId:2 status:1 
+week:2 interval:2 stuId:1 stuName:王大帅 roomId:3 status:1 
